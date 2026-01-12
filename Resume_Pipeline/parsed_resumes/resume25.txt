@@ -1,0 +1,80 @@
++(92) 336 2044894
+faizy.r872@gmail.com
+Karachi, Pakistan
+SYED FAIZAN AHMED
+EMPLOYMENT
+Staff Engineer
+Pure Square (Gaditek)
+June 2022 – Present
+●Part of the PureVPN Core team of SDK development.
+●Leading the PureVPN Apps team for iOS and macOS platforms.
+●Involved in the whole cycle from feature requirements to delivery.
+Senior Software Engineer
+CORE Technologies
+December 2019 – June 2022
+●Lead a product team.
+●Involved in the whole cycle from feature requirements to delivery.
+●Worked on ArcGIS Maps.
+●Brother Printer SDK implementation.
+●Implemented Profile Tab bar image like Instagram.
+●Introduced a feature of Light Show by implementing an SDK.
+●Worked on Core Data.
+Software Engineer
+MESHTECH Solutions
+April 2019 – November 2019
+●Implemented Google Maps for live tracking of vehicles.
+●Implemented Build Variants for the white label solution.
+●Worked on Core Animation.
+Software Engineer
+EDGEON
+August 2018 – March 2019
+●Lead a project and completed it in 2 months.
+●Developed some apps with serverless architecture.
+●Implemented Chat module using Firebase and socket.io.
+●Introduced Cloud Functions for the serverless app.
+●Worked on Node.js and MongoDB.
+Software Developer
+Catalyst IT Solutions
+July 2016 – July 2018
+●Worked on Pakistan Stock Exchange live feed feature.
+●Developed Java Servlets with MSSQL connectivity for mobile services.
+●Worked on SQLite for Android and iOS platforms.
+EDUCATION
+Karachi, Pakistan
+Virtual University Of Pakistan
+July 2012 – May 2017
+●B.S. in Computer Science
+TECHNICAL EXPERIENCE
+Projects
+●PureVPN (2022, 2023). VPN service application for end users. Swift, Objective C
+●Inspector App By CityGovApp (2020, 2021, 2022). App for Inspectors in the field and they can schedule,
+reschedule and perform inspections online and offline through this app. Objective C
+●Inspection Req By CityGovApp (2020, 2021, 2022). App for Citizens and they can view the status of
+inspections and records. Objective C
+●Bossble (2020). Users can create and attempt challenges and campaigns. It’s a social media type application
+from which users can connect to other users as well. Swift
+●Rebel Rewards (2020). App for the alumni of The University of Mississippi who can view upcoming games, get
+the points after attending the game and join the light show during the game. Swift, Objective C
+
+●Voltswitch (2019). Vehicle tracking and management app with reporting feature. Swift, Java
+●Parents Plus (2019). App for special child or elderly parents management. Swift, Java, Node.js, Mongo DB
+●Favor (2018). Serverless app integrated with Firebase containing social media features like Chat, Block /
+Unblock, Add as Friend etc. Swift, Firebase, Firebase Cloud Functions
+●KiTS (Project of Pakistan Stock Exchange) (2016 - 2018). App for viewing different types of reports for their
+trading account, users can view live market feed and place orders in the stock market as well. Objective C,
+Java, MSSQL, MYSQL
+●Other Projects and live app links could be provided on request.
+ADDITIONAL EXPERIENCE AND AWARDS
+●
+Silver Medal, Chiniot Islamia School: Awarded in 9th class for securing more than 85% in board exams.
+●
+Gold Medal, Chiniot Islamia School: Awarded in 10th class for securing more than 85% in board exams.
+●
+Cyber Star of the Quarter, Gaditek: Awarded in Pure Square (Gaditek).
+LANGUAGES AND TECHNOLOGIES
+●
+Swift, Java, Objective-C, SQL, Node.js, TypeScript
+●
+XCode, iOS, macOS, Android Studio, Visual Studio, Visual Studio Code, Microsoft SQL Server, SQLyog,
+MySQL Workbench, NetBeans, GitLab, GitHub, Bitbucket, SourceTree, Core Data, MongoDB, Firebase
+(Data Storage, Cloud Functions, File Storage), Asana, Heroku, mLab

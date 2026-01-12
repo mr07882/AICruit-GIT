@@ -1,0 +1,17 @@
+{
+    "resume_filename": "resume45.json",
+    "evaluation": {
+        "Fulfillment with Non-Negotiable Criteria": {
+            "score": "2/10",
+            "description": "- While the candidate demonstrates strong REST API design, relational database proficiency, Git usage, and agile practices, there is zero evidence of Java development or Spring Boot experience.  \n   - Core requirements around Java fundamentals (OOP, collections, exceptions, multithreading) and build tools like Maven/Gradle are entirely missing."
+        },
+        "Fulfillment with Negotiable Criteria": {
+            "score": "5/10",
+            "description": "- The resume shows solid AWS exposure and RESTful service architecture, plus AI/ML coursework\u2014aligning with cloud services and potential AI/ML integrations.  \n   - However, there\u2019s no mention of Docker containerization or messaging queues (Kafka, RabbitMQ), and microservices experience is implied but not explicit."
+        },
+        "Continuity and Recency of Experience": {
+            "score": "3/10",
+            "description": "- The candidate has maintained continuous software engineering roles since 2011, showing commitment and growth in full-stack development and cloud architecture.  \n   - Yet none of that recent experience involves Java or Spring ecosystems, making the recency of applicable skills to this role very low."
+        }
+    }
+}

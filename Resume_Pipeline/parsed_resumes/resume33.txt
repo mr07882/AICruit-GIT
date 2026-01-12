@@ -1,0 +1,107 @@
+Contact
+amaqsood68@gmail.com
+
++92 331 3520 326
+
++92 320 3033 767
+
+Karachi, Pk
+
+www.linkedin.com/in/maqsoodahmed-4704a5a3/
+
+Academic Qualification
+BS (SOFTWARE ENGINEER)
+University of Sindh, Jamshoro
+Jan 2014 - Jan 2018
+Technical Skills
+Java SE
+Core and Adv.
+Java EE and Frameworks
+Spring Boot
+JPA
+Hibernate(ORM)
+Servlets & JSPs
+Jasper Reports
+Working Experience with
+Spring Security
+Struts2
+Angular 16
+SQL
+Github
+HTML/CSS
+Bootstrap
+Maven
+Postman
+JSON
+WildFly
+Apache Tomcat
+Stripe Integration
+Group Chatting
+Ongoing 
+Courses/Certifications
+Spring-boot From Developer To 
+Expert by Coding Shuttle
+Spring Boot Advance
+
+Spring Security
+
+Spring Cloud
+
+Apache Kafka
+
+Docker
+
+Kubernetes
+
+
+MAQSOOD AHMED SHAIKH
+SR. FULL STACK JAVA DEVELOPER
+Experience
+Lead/Sr. Developer                                              +04 Years - ongoing
+Inseyab Consulting & Information Solutions LLC | January 2021 - Present
+Design and develop backend & frontend architecture of web applications,  
+and also create business flow of application, setup Servers for 
+deployment, and design database. Develop APIs for web & mobile 
+platforms and ensure cross-platform optimization for mobile phones.
+Full-Stack Java Developer                                                     02 Years
+Arittek Solution (Pvt) Limited | October 2018 - December 2020
+I grew my skills as a full-stack developer, focused on Web&App 
+development. worked on many java frameworks(SpringBoot, Hibernate, 
+Struts2, Servlet&JSPs), various innovative tools and techniques in 
+different project. Also worked on frontend(AngularJS, Angular, 
+pieCharts, bootstrape)
+Projects
+Chalk Talk
+Inseyab Consulting & Information Solutions LLC
+Spring Boot, Angular-16, MS-SQL and Wildfly are the technologies used 
+in this project's development. Working as a Lead development role.
+An LMS, allows users(Learners & Mentors) to create, deliver, and report 
+on training courses and programs.
+https://chalktalk.world
+VExpositions
+Inseyab Consulting & Information Solutions LLC
+This project is on Spring-Boot, Angular-7, MS SQL, Wildfly. Working as a 
+Lead development role.
+VExpositions is suitable for webinars, conferences & trade shows, 
+summits, forums, workshops, and hybrid events.
+https://www.vexpositions.com/
+Befiler
+Arittek Solution (Pvt) Limited
+This project is on Spring-Boot, AngularJS, WordPress.
+I have worked on this project as a full-stack developer, developed 
+various features like ATL, Vehicle Verification and Registration, Income 
+and Expense module(for its Andriod Version).
+www.befiler.com
+Htrunk Reporting
+Arittek Solution (Pvt) Limited
+Successfully Completed a foreign office trip for this project in Thailand . 
+I have developed & designed reports by writing Hive Query Language in 
+Apache Superset (Python reporting tool). 
+Live on private domain
+Al-Qist (Pool Management System)
+Arittek Solution (Pvt) Limited
+This project is on Struts 2, Hibernate, JSPs.
+Al-Qist deployed in multiple banks(Meezan Bank, Faisal bank, Al-Falah 
+and others) in Pakistan. I have developed many new features in this and 
+have provided support as well to our clients for this project.
+Live on private domain

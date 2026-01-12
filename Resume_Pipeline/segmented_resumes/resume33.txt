@@ -1,0 +1,86 @@
+Personal Information
+Name: Maqsood Ahmed Shaikh
+Title: Senior Full Stack Java Developer
+Email: amaqsood68@gmail.com
+Phone: +92 331 3520 326, +92 320 3033 767
+Location: Karachi, Pakistan
+LinkedIn: www.linkedin.com/in/maqsoodahmed-4704a5a3/
+
+Education
+BS in Software Engineering, University of Sindh, Jamshoro
+January 2014 – January 2018
+
+Experience
+Lead/Senior Developer, Inseyab Consulting & Information Solutions LLC
+January 2021 – Present (4+ years)
+- Designed and developed backend and frontend architecture for web applications
+- Created business workflows and database designs
+- Set up servers for deployment and managed application hosting
+- Developed RESTful APIs for web and mobile platforms
+- Ensured cross-platform optimization for mobile devices
+
+Full-Stack Java Developer, Arittek Solution (Pvt) Limited
+October 2018 – December 2020 (2 years)
+- Worked on web and app development as a full-stack developer
+- Developed features using Java frameworks: Spring Boot, Hibernate, Struts2, Servlets & JSPs
+- Built frontend components with AngularJS, Angular, Bootstrap and charting libraries
+- Collaborated on innovative tools and techniques to enhance project delivery
+
+Skills/programming Languages
+- Java SE (Core and Advanced), Java EE
+- Spring Boot, Spring Security, Spring Cloud
+- JPA, Hibernate (ORM)
+- Servlets & JSPs, Struts2
+- AngularJS, Angular (7 & 16)
+- HTML/CSS, Bootstrap, JSON
+- SQL (MS-SQL), Hive Query Language
+- Maven, Git/GitHub
+- Apache Tomcat, WildFly
+- Postman
+- Jasper Reports
+- Docker, Kubernetes
+- Apache Kafka
+- Stripe Integration
+
+Projects
+Chalk Talk (Inseyab Consulting & Information Solutions LLC)
+- Role: Lead Developer
+- Technologies: Spring Boot, Angular 16, MS-SQL, WildFly
+- Description: A learning management system (LMS) allowing learners and mentors to create, deliver, and report on training courses
+- URL: https://chalktalk.world
+
+VExpositions (Inseyab Consulting & Information Solutions LLC)
+- Role: Lead Developer
+- Technologies: Spring Boot, Angular 7, MS-SQL, WildFly
+- Description: Platform for webinars, conferences, trade shows, summits, forums, workshops, and hybrid events
+- URL: https://www.vexpositions.com/
+
+Befiler (Arittek Solution (Pvt) Limited)
+- Role: Full-Stack Developer
+- Technologies: Spring Boot, AngularJS, WordPress
+- Description: Developed features including ATL, vehicle verification and registration, income and expense module for Android version
+- URL: www.befiler.com
+
+Htrunk Reporting (Arittek Solution (Pvt) Limited)
+- Role: Developer & Report Designer
+- Technologies: Hive Query Language, Apache Superset (Python reporting tool)
+- Description: Designed and implemented reports; included a project trip to Thailand
+- Status: Live on private domain
+
+Al-Qist (Pool Management System) (Arittek Solution (Pvt) Limited)
+- Role: Developer & Support
+- Technologies: Struts2, Hibernate, JSPs
+- Description: Deployed in multiple banks (Meezan Bank, Faisal Bank, Al-Falah, others); developed new features and provided client support
+- Status: Live on private domains
+
+Certifications/Courses
+- Spring Boot From Developer To Expert (Coding Shuttle)
+- Spring Boot Advance
+- Spring Security
+- Spring Cloud
+- Apache Kafka
+- Docker
+- Kubernetes
+
+Other Information
+(None)

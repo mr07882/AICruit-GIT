@@ -1,0 +1,17 @@
+{
+    "resume_filename": "resume5.json",
+    "evaluation": {
+        "Fulfillment of Non-Negotiable Criteria": {
+            "score": "2/10",
+            "description": "Dr. Ahmed lists Java among several programming languages but provides no evidence of 3\u20136 years of dedicated Java development or experience with Spring Boot, REST API design, Git, or build tools. His background is heavily research- and ML-oriented rather than focused on core Java fundamentals, frameworks, and agile lifecycle practices."
+        },
+        "Fulfillment of Negotiable Criteria": {
+            "score": "3/10",
+            "description": "While he has led large-scale analytics architectures and current projects include cloud AI integration, there is no explicit mention of microservices, containerization, messaging queues, or specific cloud platforms. His experience hints at relevance but lacks concrete exposure."
+        },
+        "Continuity and Recency of Relevant Experience": {
+            "score": "3/10",
+            "description": "Dr. Ahmed\u2019s most recent work (2021\u2013present) centers on ML modernization consulting, not hands-on Java development. His last software architecture role ended in 2020, and earlier research positions date back over a decade, showing limited recent continuity in the required Java stack."
+        }
+    }
+}

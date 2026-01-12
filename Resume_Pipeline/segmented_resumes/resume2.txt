@@ -1,0 +1,49 @@
+Personal Information
+• Name: Mannan Rangoonia  
+• Email: mannan.mohammed14@gmail.com  
+• Phone: 03338582666  
+• Location: Karachi, Pakistan  
+
+Education
+• Bachelors in Computer Science, Habib University, Karachi, Pakistan  
+  – Duration: 08/2022 – 08/2026  
+  – Current CGPA: 3.63/4  
+
+Experience
+• Full Stack Developer (Freelance), Karachi, Pakistan  
+  – Year: 2024  
+  – Technologies: MERN stack, HTML, CSS, JavaScript  
+
+Skills/programming Languages
+• Programming Languages: C, C++, Python, JavaScript, HTML, CSS  
+• Frameworks & Libraries: MERN (MongoDB, Express.js, React.js, Node.js)  
+• AI & LLMs: Large Language Models, LLM Agent Design & Orchestration  
+• Web Development: Front-end and back-end development  
+• Software Engineering & CS Fundamentals  
+• Robotics: Vision & control systems, inverse kinematics  
+• Systems & Architecture  
+
+Projects
+• Code Assistant Agent  
+  – Small agent that takes natural language prompts to generate code snippets, tests, or refactor existing code  
+• AI-Powered 3D Architecture Modelling Web App  
+  – Converts natural language descriptions into 3D room models using React, JavaScript, and Make.com  
+• Rehnuma  
+  – React.js & Python web app for AI-optimized grocery routing with real-time tracking and dynamic pricing  
+• Vision-Based Control of PhantomX Pincher  
+  – Implements vision input and inverse kinematics for robotic arm control  
+• Ray Tracer Optimization Using BVH  
+  – Optimized BVH-based ray tracing for faster real-time rendering  
+• Fashion Hub  
+  – Modern online shopping platform built with React  
+
+Certifications/Courses
+• Python for Everybody Specialization, University of Michigan (Coursera)  
+• AI Agent Developer Specialization, Vanderbilt University (Coursera)  
+• Introduction to Robotics, Habib University  
+• Artificial Intelligence, Habib University  
+• Software Requirement Engineering, Habib University  
+• Web and Mobile Development, Habib University  
+
+Other Information
+• Profile Summary: Computer Science student with a strong foundation in AI, web development, and robotics, dedicated to creating intelligent, user-centric solutions with real-world impact.

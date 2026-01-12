@@ -1,0 +1,58 @@
+mannan.mohammed14@gmail.com
+Profile
+Computer Science student with a strong foundation in Al, web development, and robotics, dedicated to 
+creating intelligent, user-centric solutions with real-world impact.
+Education
+Bachelors In Computer Science, Habib University
+Current CGPA: 3.63/4
+Professional Experience
+Full Stack Developer, Freelance
+2024
+Karachi, Pakistan
+Skills
+Programming Languages — C, C++, Python, JavaScript, HTML, CSS,   MERN
+LLM Agent Design & Orchestration
+Large Language Models
+Web Development
+Software Engineering & CS Fundamentals
+Robotics Vision & Control
+Systems & Architecture
+Projects
+Code Assistant Agent, 
+Small agent that takes natural language prompts and generates snippets, tests, or refactors code.
+AI-Powered 3D Architecture Modelling Web App, 
+Web app converting natural language to 3D room models with React, JS, and Make.com.
+Rehnuma, 
+React.js & Python web app for AI-optimized grocery routing with real-time tracking and dynamic pricing.
+Vision-Based Control of PhantomX Pincher, 
+Vision-based control of PhantomX Pincher using camera input and inverse kinematics.
+Ray Tracer Optimization Using BVH, Optimized BVH-based ray tracing for faster real-time rendering.
+Fashion Hub, Modern Online Shopping Experience with React
+Courses
+Python For Everybody 
+Specialization
+University Of Michigan, Coursera
+Introduction To Robotics
+Habib University
+
+Mannan Rangoonia
+03338582666
+Karachi, Pakistan
+08/2022 – 08/2026
+Karachi, Pakistan
+|
+|
+|
+|
+|
+|
+AI Agent Developer 
+Specialization
+Vanderbilt University, Coursera
+Artificial Intelligence
+Habib University
+Software Requirement 
+Engineering
+Habib University
+Web And Mobile Development
+Habib University

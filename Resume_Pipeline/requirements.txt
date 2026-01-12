@@ -1,0 +1,12 @@
+openai
+PyMuPDF
+pdfplumber
+pdf2image
+pytesseract
+ocrmypdf
+requests
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
+python-docx

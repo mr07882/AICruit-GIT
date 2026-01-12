@@ -1,0 +1,80 @@
+{
+    "Personal Information": {
+        "Name": "Muhammad Zubair Khan",
+        "Email": "zubidev@gmail.com",
+        "Phone": "+92-314-2908448",
+        "Location": "Karachi, Pakistan",
+        "Website": "https://zubidev.com",
+        "LinkedIn": "linkedin.com/in/zubidev",
+        "GitHub": "github.com/zubidev",
+        "StackOverflow": "stackoverflow.com/users/zubidev",
+        "Twitter": "@zubidev",
+        "Facebook": "facebook.com/zubiidev"
+    },
+    "Education": [
+        "MS in Computer Science and Information Technology, NED University, Karachi, Pakistan — Feb 2022",
+        "BS in Computer Science, University of Sindh, Jamshoro, Pakistan — Dec 2010"
+    ],
+    "Experience": [
+        "Sr. Software Engineer",
+        "Gaditek — Dec 2015 to Present (Remote",
+        "PK)",
+        "Developed a Slack bot using slash commands, events, scheduled messages and interactive components for metric management",
+        "Built integrations (CRUD operations) with Jira, Salesforce, Asana, Zendesk, Tableau, Baremetrics, Google Docs, Google Calendar",
+        "Designed and implemented AWS network architecture across multiple workloads and environments",
+        "Established workflows and guidelines to enforce code consistency, readability, maintainability, and testability",
+        "Developed front end with Angular and back end API with Laravel; designed a REST API to unify client MVC components",
+        "Participated in code reviews, architecture discussions, and design sessions",
+        "Software Engineer",
+        "Tecutive — Sep 2013 to Dec 2015 (Karachi",
+        "Redeveloped company brand website from scratch and built a module-based page builder",
+        "Integrated booking systems and third-party APIs; assisted Salesforce and DynamicsCRM integrations on WordPress",
+        "Installed Google Analytics and optimized reports for troubleshooting",
+        "Developed AP News Media API importer tool for WordPress to fetch Associated Press content",
+        "Software Developer",
+        "Invortex — Apr 2012 to Sep 2013 (Karachi",
+        "Documented, built and consumed RESTful APIs; implemented SEO best practices",
+        "Added new features and maintained PHP/HTML/CSS/JavaScript/MySQL projects, focusing on performance and refactoring",
+        "Collaborated in a cross-functional Agile team for code optimization and solution migration",
+        "Web Developer",
+        "Creative Jin — Dec 2011 to Apr 2012 (Karachi",
+        "Integrated MySQL databases with PHP applications; resolved PHP development issues",
+        "Gained practical experience with Git version control and HTTP request handling",
+        "Worked closely with team leads and project managers to meet objectives on time"
+    ],
+    "Skills": [
+        "PHP, Laravel, Zendesk, WordPress, Drupal",
+        "JavaScript, TypeScript, Angular, AJAX, JSON",
+        "HTML5, CSS3, LAMP stack",
+        "MySQL, Redis, Elasticsearch, Database design",
+        "REST APIs, Web APIs, RESTful services",
+        "AWS, Cloudflare, Domain Mapping",
+        "Git, Unit Testing, Agile methodology",
+        "Algorithms, Data Mining, Cybersecurity, Analytics, GTM"
+    ],
+    "Projects": [
+        "(No standalone projects listed)"
+    ],
+    "Certifications": [
+        "Graduate Coursework:",
+        "Advanced Machine Learning",
+        "Data Mining",
+        "Artificial Intelligence",
+        "Advanced Analysis of Algorithms",
+        "Cloud Computing",
+        "Advanced Theory of Automata",
+        "Image Processing and Computer Vision",
+        "Natural Language Processing",
+        "Software Project Management",
+        "Undergraduate Coursework:",
+        "Software Engineering",
+        "Operating Systems",
+        "Digital Logic Design",
+        "Functional Programming",
+        "Database Systems"
+    ],
+    "Other Information": [
+        "Willing to participate in code reviews, architectural discussions and collaborative development processes",
+        "Familiar with Slack platform features and third-party service integrations"
+    ]
+}

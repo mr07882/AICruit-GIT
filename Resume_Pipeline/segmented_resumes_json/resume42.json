@@ -1,0 +1,54 @@
+{
+    "Personal Information": {
+        "- Name": "Zubair Munir",
+        "- Location": "Johar Town, Lahore, Pakistan",
+        "- Phone": "+92 (306) 617-2561",
+        "- Email": "zubiarmunir263@gmail.com",
+        "- LinkedIn": "www.linkedin.com/in/zubair-munir"
+    },
+    "Education": [
+        "Bachelor of Science in Software Engineering, University of Gujrat, Gujrat, Pakistan (2014–2018)"
+    ],
+    "Experience": [
+        "Systems Limited",
+        "Consultant Mobile Development (Nov 2021 – Present)",
+        "Developed UI/UX for SGDD Portalen on Android and iOS using .NET MAUI, Xamarin.Forms, Xamarin.Android, Xamarin.iOS, and native custom renderers",
+        "Architected applications with SOLID principles, MVVM (Prism, MVVM Light), dependency injection (Unity) and abstractions",
+        "Integrated ASP.NET Web API Identity OAuth login/registration, consumed and built RESTful services",
+        "Implemented offline data storage with SQLite ORM and synchronization service",
+        "Used Visual Studio App Center for beta testing, crash analytics and usage reporting",
+        "Integrated Facebook/Google login, Firebase notifications, SignalR and third-party NuGet packages",
+        "Conducted unit testing, bug fixing, maintenance and support",
+        "True Tech Pvt Ltd.",
+        "Software Engineer (Feb 2019 – Nov 2021)",
+        "Employee Search App (Xamarin.Forms): Brand-based employee lookup, background image fetch, contact/email/SMS integration",
+        "Mileages App (Xamarin.Forms): Tabs for draft/treated/approved, Google API for distance, custom numeric keyboard, draft/save workflows",
+        "Expenses App (Xamarin.Forms): Camera/gallery attachments, category/type filters, multi-currency handling, draft and approval flows",
+        "Inventory Modules (Xamarin.Forms): Offline-first barcode scanning (ZXing), cart/order management, background sync via task service, App Center logging",
+        "Freedom App (Xamarin.Android): Azure AD B2C authentication with Microsoft Graph API, Twilio/SendGrid OTP verification, MVVM architecture"
+    ],
+    "Skills": [
+        "Frameworks & Platforms: .NET MAUI, Xamarin.Forms, Xamarin.Android, Xamarin.iOS, Flutter, ASP.NET Web API",
+        "Languages: C#, Dart, JavaScript, XML",
+        "Architecture & Design: MVVM (Prism, MVVM Light), SOLID, Clean Architecture, Dependency Injection, Data Binding, Design Patterns",
+        "Cloud & Services: Azure AD, Azure AD B2C, Microsoft Graph API, Firebase, Twilio, SignalR, SendGrid",
+        "Tools & Testing: Visual Studio, Xcode, Visual Studio Code, Git, TFS, Azure DevOps, App Center, Postman, Retrofit2, Unit Testing",
+        "Databases & APIs: SQLite (offline support), RESTful APIs, Google Maps, SharePoint API"
+    ],
+    "Projects": [
+        "ANGLR (Xamarin.Forms): ERP-based fishing intelligence tool with mapping, logbook, analytics, custom renderers, SharePoint integration",
+        "Girdawari (PLRA Digital Gardawari): Role-based land record inspection app with offline mode and SQLite synchronization",
+        "Power International Holding (Flutter): Document approval workflow app, Microsoft login integration, UI clone from Power Apps",
+        "Sports Corner (Flutter): E-commerce app with product catalog, store locator, order tracking, payment gateway, notifications, internationalization",
+        "Dominos ( .NET MAUI ): Pizza ordering and delivery app with SQLite persistence and unit tests",
+        "(Also see detailed apps under True Tech experience)"
+    ],
+    "Certifications": [
+        "Microsoft Certified Professional",
+        "Microsoft Certification 70-480: Introduction to Programming in HTML, CSS, JavaScript"
+    ],
+    "Other Information": [
+        "Excellent organizational, communication, presentation and interpersonal skills",
+        "Strong team collaboration and coordination abilities"
+    ]
+}

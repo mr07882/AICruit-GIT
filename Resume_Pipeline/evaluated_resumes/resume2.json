@@ -1,0 +1,17 @@
+{
+    "resume_filename": "resume2.json",
+    "evaluation": {
+        "Fulfillment of Non-Negotiable Criteria": {
+            "score": "1/10",
+            "description": "Candidate has no professional Java development experience, frameworks (Spring Boot), or related tooling (Maven/Gradle) and lacks exposure to relational databases, making it a near-complete mismatch."
+        },
+        "Fulfillment of Negotiable Criteria": {
+            "score": "3/10",
+            "description": "While the resume shows strong AI/ML project work and LLM agent design, there is no evidence of microservices, cloud platforms, messaging queues, or containerization knowledge."
+        },
+        "Continuity and Recency of Relevant Experience": {
+            "score": "2/10",
+            "description": "The only professional experience is a 2024 freelance MERN role, which doesn\u2019t align with the required Java stack, and there is minimal continuity in the target technologies over time."
+        }
+    }
+}

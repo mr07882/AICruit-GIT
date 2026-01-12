@@ -1,0 +1,68 @@
+Syed Muhammad Talha Shan
+Karachi,  Pakistan
+Phone:  +923312715963
+Email:    talha.shan007@gmail.com
+LinkedIn: https://www.linkedin.com/in/talha-shan7515aa192/
+Skype :  Talha Shan
+Home :  34610511
+SKILLS & PROFICIENCIES
+Can work with web-based technologies like Java
+Spring MVC and Spring Boot.
+SQL, MySQL, SQLite, Google-Firebase , MongoDB
+JavaScript and Angular
+Have Work with Aws S3,Iot,EC2,Rds,Ses Services
+Python,C++
+Knowledge of Relational Database ,Hibernate
+,ORM technologies and Web Sockets
+Knowledge of Microservice Architecture
+Unit Testing and SonarQube Code Analysis
+Understanding of Spring Boot Actuators
+Familiarity with Gitlab, Jira Agile, Scrum and TDD
+Methodologies
+OTHER TOOLS
+Sonar Cloud
+New Relic
+Sentry
+Docker
+CERTIFICATIONS
+Udacity Nano degree DSA
+https://graduation.udacity.com/confirm/DFDKL7
+W4
+Aws solution architect associate
+https://www.credly.com/badges/aae5bc75-d17240ab-aa4b-eadd80ab0bf7/public_url
+
+EDUCATION
+BE - Computer and Information System Engineering
+(Ned University of Engineering and Technology)
+Batch  2015-19  , CGPA: 3. 00
+Adamjee Govt Science College  (HSC 2013-14)
+Muhammadi Public School  (SSC)
+WORK HISTORY
+Software Engineer at Ositech Communication Inc (March 2021 -
+Present)
+Working as Backend Engineer at Routica(In Vehicle Router )
+app used for tracking, sharing and security purpose. The
+product is developed using Java Spring Boot on backend, Aws
+IOT as message broker for Router Communication, and Aws
+cloud for deployment purpose.
+Software Engineer at HBZ Services Pakistan (Feb 2020 - Feb 21)
+Working as Java Developer in development team of Hplus
+banking Application that handles accounting, reporting or
+management purpose in bank, responsible for solving bugs and
+making new features according to requirements, creating SQL
+triggers and procedures and data analysis. This product is
+developed using Core Java.
+Junior Software Engineer at Binary Vibes pvt ltd (2019 Oct -Jan)
+Working in development team of ESOURCE offers Temporary
+value enhancements, Sales and settlement calendar and MIS
+Reporting. The product is developed using Java Spring Boot
+and AngularJs, responsible for unit testing , solving bugs and
+create web services.
+PROJECTS (HTTPS://GITHUB.COM/TALHASHAN)
+Football Club Management System (Java,SQL)
+AI Based Pacman Game
+Travel Agency Booking System (C#,SQL)
+Smart Donation Box (NodeMcu, Firebase Real Time
+Database, Arduino)
+Microservice high level design between two service
+using Eureka Discovery server

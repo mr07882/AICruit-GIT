@@ -1,0 +1,81 @@
+Zain Mansoor
+Backend Java Developer and Computer Scientist
+Phone:
++92 331 8436007
+Address:
+105 Ali Block Awan Town Lahore
+Email:
+znmansoor@gmail.com
+Aspiring for career enriching assignments as Software Engineer preferably in an organization having multinational software
+development environment where I have opportunities to contribute my best.
+EXPERIENCE
+Ascertia PVT Limited
+Senior Software Engineer
+November 2017 – Present
+Primarily, the designation was to work in different paradigms of the microservices architectural based complete PKI solution
+ADSS in and with the passage of time I have got the opportunity to lead developer teams on routine basis in the same product.
+Took full responsibility in all aspects including arranging discussions with all stake holders, proper requirement analysis and
+understanding, development, resource management, documentation and delivery on time.
+Created and managed technical documents, Client SDK developer guides and release notes.
+Technical Key Areas
+Worked on remote authorized digital signature service and done integration with signature activation module.
+Integrated IDP/IAM for Authentication/Authorization for Remote Signatures using SAML and OpenID-Connect protocols.
+Implemented ADSS Service that computes Hmac over provided hashes with software and HSM based keys, also
+implemented NPKD Service that is a part of ADSS e-passport solution with ldap integration.
+Provided native signing support for Utimaco CP5 HSM using integration with driver library using JNI calls as an in
+replaced of standard PKCS 11.
+Upgraded Tomcat, Hibernate and DBCP Connection pool to latest version in ADSS product.
+IQVIS
+Software Engineer
+May 2016 – August 2017
+As Software Engineer at IQVIS, I started working on project IMARS developed using java, spring and hibernate. The aim of
+development was
+Produce Robust Application
+Write Generic & Optimized Code
+Manipulate best practices in SQL
+Project Performance
+Arcana Info
+Oracle Support Engineer
+September 2015 – February 2016
+Providing 24x7 support to clients
+Worked on projects POC’s including Oracle Advanced Compression
+Oracle Restart to Oracle RAC conversion at Mobilink Pakistan – DBA
+Deployment of Oracle Real Application Cluster on Oracle 2 x SPARC T5-2 servers
+Grid Infrastructure Upgradation/ASM Migration from 11.2.0.3 to 11.2.0.4
+Migration of Oracle database to Oracle RAC
+Diamond Group of Industries
+Oracle DBA
+March 2015 – August 2015
+Providing application and database support for Oracle EBS R12
+Providing database support for in-house legacy application system
+Cloning and Patching of Oracle Applications R12.1.3 and Oracle Database 11GR1
+Oracle Instance and Linux Kernel Parameters Tuning
+Health check-up and monitoring backup activities
+Refreshing test and UAT instances as needed
+Performing status checks by monitoring the Alert log, Trace files of the databases
+Self-Education and Improvement
+Created using Resumonk - Online Resume Builder
+
+SKILLS
+Programming Language: Java, C, C++, ASM
+Databases: MySQL, Oracle, PostgreSQL, MSSQL
+Frameworks: Spring Core, Spring Boot, Spring Security, Spring MVC, Struts, Hibernate, Hikari CP
+Java EE Stack: JPA, JTA, CDI, Servlet, JSP
+Technologies: Multi-tenancy, Microservices, SAML, OpenID-Connect, SSO
+PKI: Digtial Signatures, CMS, XML digsig, PKCS1, PKCS7, PKCS11
+Servlet Containers: Tomcat, Undertow
+Operation Systems: Windows, Linux, Unix, Solaris
+EDUCATION
+COMSATS Institute of Information Technology Lahore
+Bachelors of Computer Science
+2010-2014
+Mansoora Model Degree College, Lahore
+Intermediate Pre-Engineering
+2007-2009
+Govt. High School, Lahore
+Matriculation
+2005-2007
+REFERENCE
+References are available upon request.
+
+Created using Resumonk - Online Resume Builder

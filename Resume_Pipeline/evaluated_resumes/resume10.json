@@ -1,0 +1,17 @@
+{
+    "resume_filename": "resume10.json",
+    "evaluation": {
+        "Fulfillment of Non-Negotiable Criteria": {
+            "score": "1/10",
+            "description": "- The candidate has no hands-on Java development experience, nor exposure to Spring Boot, REST APIs, or relational databases like MySQL/PostgreSQL.  \n   - While they demonstrate problem-solving skills in automation contexts, none of the core Java fundamentals or build tools (Maven/Gradle) are present."
+        },
+        "Fulfillment of Negotiable Criteria": {
+            "score": "0/10",
+            "description": "- There is no evidence of experience with microservices, cloud platforms, messaging systems (Kafka, RabbitMQ), or containerization (Docker).  \n   - The candidate\u2019s background is focused on PLC, robotics, and Python/C# image processing, which does not align with the optional Java ecosystem requirements."
+        },
+        "Continuity and Recency of Relevant Experience": {
+            "score": "1/10",
+            "description": "- Recent experience is limited to automation engineering internships and academic projects unrelated to Java development or enterprise software practices.  \n   - There is no continuity of software development work in Java or agile environments, making the candidate\u2019s experience not directly transferable to the role."
+        }
+    }
+}

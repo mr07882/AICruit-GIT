@@ -1,0 +1,17 @@
+{
+    "resume_filename": "resume25.json",
+    "evaluation": {
+        "Fulfillment of Non-Negotiable Criteria": {
+            "score": "2/10",
+            "description": "The candidate\u2019s only Java experience dates back to 2016\u20132018, mainly involving servlets and mobile services, with no evidence of Spring Boot, Maven/Gradle, or multithreading expertise. Key fundamentals like Java frameworks and modern build tools are missing."
+        },
+        "Fulfillment of Negotiable Criteria": {
+            "score": "3/10",
+            "description": "Some exposure to cloud via Firebase, lightweight messaging with socket.io, and Node.js back ends suggests general backend familiarity, but there is no containerization, Kafka/RabbitMQ, or cloud provider (AWS/Azure/GCP) experience."
+        },
+        "Continuity and Recency of Experience": {
+            "score": "2/10",
+            "description": "Java work ended in mid-2018, and since then the candidate has focused exclusively on iOS/macOS apps in Swift/Objective-C, indicating a significant gap in maintaining Java-related skills and practices."
+        }
+    }
+}

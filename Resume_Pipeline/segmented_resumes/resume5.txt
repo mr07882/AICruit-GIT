@@ -1,0 +1,38 @@
+Personal Information
+Name: Dr. Faisal Ahmed  
+Email: faisal.ahmed@gmail.com  
+Phone: +92 333 1112233  
+Location: Karachi, Pakistan  
+
+Education
+PhD in Computer Science, National University of Sciences & Technology (NUST), Pakistan, 2004  
+
+Experience
+Research Scientist, COMSATS (2005–2010)  
+- Led national-level research projects on natural language processing and text analytics  
+
+Software Architect, TechEdge (2011–2020)  
+- Directed architecture design for large-scale data systems and analytics pipelines  
+
+Independent Consultant (2021–Present)  
+- Advises organizations on ML modernization and provides academic guidance  
+
+Skills/programming Languages
+Expertise: Support Vector Machines, Hidden Markov Models, Decision Trees, Data Mining  
+Programming Languages: Python, MATLAB, Java, SQL  
+Tools & Frameworks: scikit-learn, TensorFlow  
+Soft Skills: Research, Technical Leadership, Mentorship  
+
+Projects
+• Speech Recognition via Hidden Markov Models (2004)  
+• Document Clustering using TF-IDF and k-Means (2005)  
+• Bayesian Spam Filtering for Email Security (2006)  
+• ML Frameworks and Cloud AI Integration (2024–Present)  
+
+Certifications/Courses
+None listed  
+
+Other Information
+Awards  
+• Best Research Paper Award, IEEE PAKAI (2005)  
+• Innovation Award, COMSATS Research (2008)

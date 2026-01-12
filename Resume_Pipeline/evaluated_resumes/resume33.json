@@ -1,0 +1,17 @@
+{
+    "resume_filename": "resume33.json",
+    "evaluation": {
+        "Fulfillment with Non-Negotiable Criteria": {
+            "score": "9/10",
+            "description": "Justification: The candidate brings over six years of hands-on Java development, strong core Java fundamentals, extensive Spring Boot framework usage, REST API experience, and solid familiarity with relational databases, Git, and Maven. He also demonstrates Agile-style project involvement and proven debugging skills across multiple live deployments."
+        },
+        "Fulfillment with Negotiable Criteria": {
+            "score": "6/10",
+            "description": "Justification: He has practical exposure to Kafka, Docker, and Kubernetes and holds a Spring Cloud certification, but lacks explicit cloud (AWS/Azure/GCP) project experience, limited microservices detail, and no evidence of AI/ML API integrations."
+        },
+        "Continuity and Recency of Experience": {
+            "score": "7/10",
+            "description": "Justification: His current role (4+ years) continuously leverages Spring Boot, RESTful APIs, and SQL database work, reflecting recent non-negotiable expertise; however, usage of cloud services and microservices architecture appears less up-to-date."
+        }
+    }
+}

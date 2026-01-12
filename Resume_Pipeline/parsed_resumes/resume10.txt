@@ -1,0 +1,108 @@
+SOFT SKILLS
+
+¢ Communication and teamwork
+
+e Document comprehension and
+presentation
+
+e Logical thinking and problemsolving
+
+e Understanding equipment manuals
+(datasheet, manual, etc.)
+
+e MS Office, VS Code, Visual Studio
+
+TECHNICAL SKILLS
+
+e PLC, HMI programming (Siemens,
+Mitsubishi, Allen-Bradley)
+
+¢ Robot control programming
+integrated with automation
+solutions
+
+e Image processing programming
+(C#, Python)
+
+e Microcontroller programming
+
+LANGUAGES
+
+e English
+
+CERTIFICATES
+
+TOEIC | 19/05/2023 - 19/05/2025
+e Listening: 295
+
+e Reading: 285
+
+¢ Total Score: 580
+
+@ 13/02/2002 - Phu Yen
+
+LUU VAN HAI R093 476 5372
+
+lend
+AUTOMATION ENGINEER
+
+91/1 Street 8, Linh
+Trung, Thu Duc City
+
+OBJECTIVE
+
+Seeking a position as an Automation Engineer where | can apply my
+knowledge and skills in automation to design, develop, and optimize
+automated production systems. In the long term, | aim to become a
+technical expert or project manager, developing advanced automation
+solutions integrated with intelligent systems, contributing to the
+sustainable development of the business.
+
+WORK EXPERIENCE
+
+B&l Electric - Automation Co., Ltd. Sep 2023 - Feb 2024
+Intern
+e Reading electrical drawings and assembling control cabinets.
+e Using EPLAN software to draw electrical circuit diagrams.
+¢ Training on using TIA Portal for SCADA system programming.
+e Worked on ATS cabinet project for the Thien Ho Petrol Company
+project in Tien Giang.
+e Worked on MSB main distribution cabinet project for Binh Minh
+Packaging Paper Factory in Binh Duong.
+
+Saigon Hi-Tech Park Training Center Feb 2024 - Jul 2024
+Intern and Final Project
+
+e Training in controlling and programming the Nachi MZ-0O7 robot.
+
+e Programming integrated automation systems with Mitsubishi PLC,
+HMI, and conveyor systems.
+
+e Training on sensors, solenoid valves, servo motors, step motors,
+inverters, etc.
+
+¢ Basic industrial communication (IP, TCP/IP, RS232, RS485).
+
+EDUCATION
+
+Ho Chi Minh City University of Technology and Education 2020 - 2024
+Degree: Bachelor of Engineering
+
+Major: Control and Automation Engineering Technology
+GPA: 7.45 / 10
+
+Final Project: “Controlling Nachi MZO7 Robot Arm Integrated with
+
+Image Processing for Product Classification”
+
+e Programmed Nachi MZO7 robot control using Robot language and User
+Task programming.
+
+e« Image processing using Python programming language.
+
+e Sequential control programming using Mitsubishi PLC and HMI
+GOT1000.
+
+Video:
+
+Github:

@@ -1,0 +1,51 @@
+Job Title: Java Software Engineer (Mid–Senior Level)
+Responsibilities
+Develop and maintain scalable backend applications using Java and related frameworks.
+
+Build RESTful APIs and microservices using Spring Boot or similar Java-based frameworks.
+
+Write clean, maintainable, and efficient Java code following industry best practices.
+
+Refactor existing Java modules for better performance, readability, and modularity.
+
+Optimize Java applications for maximum speed and scalability.
+
+Ensure code quality by writing unit and integration tests using JUnit or equivalent tools.
+
+Debug and resolve application issues in Java applications across dev/test/prod environments.
+
+Collaborate with product, QA, and DevOps teams during the Java application lifecycle, from design to deployment.
+
+Stay updated with the latest Java features and incorporate them where applicable.
+
+Participate in code reviews, provide technical feedback, and promote Java coding standards.
+
+Requirements
+Must-Have:
+3–6 years of hands-on experience in Java development.
+
+Strong understanding of Java fundamentals (OOP, collections, exceptions, multithreading).
+
+Experience with Spring Boot or similar Java frameworks.
+
+Familiarity with REST API design and development.
+
+Proficiency in relational databases (e.g., MySQL, PostgreSQL).
+
+Experience with Git and build tools like Maven or Gradle.
+
+Understanding of software development lifecycle and agile practices.
+
+Strong problem-solving and debugging skills.
+
+Nice-to-Have:
+Experience with microservices and distributed systems.
+
+Exposure to cloud services (AWS, Azure, or GCP).
+
+Familiarity with Kafka, RabbitMQ, or other messaging queues.
+
+Containerization knowledge (Docker).
+
+Interest or exposure to AI/ML integrations via API is a plus.
+

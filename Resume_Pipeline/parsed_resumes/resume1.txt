@@ -1,0 +1,78 @@
+Profile
+Data enthusiast with a passion for leveraging data-driven insights to optimize business processes and enhance 
+decision-making.
+Skills
+Data Analytics and Machine Learning
+Web development and UI/UX Design
+Design Thinking and Problem Solving
+Projects
+Forecasting Curtailed Wind Power Using TFT and LSTM
+Developing a predictive model using Temporal Fusion Transformer (TFT) and Long Short-Term Memory (LSTM) networks to 
+forecast curtailed wind power production based on historical weather and energy data.
+Machine Learning-Based Scam Call Detection
+Develop a machine learning model to analyze patterns in call behavior, such as frequency, time of day, and historical data, to 
+classify and flag suspicious numbers.
+Customer Feedback Sentiment Analysis
+Analyze customer feedback in roman urdu using sentiment analysis techniques to classify reviews into positive, neutral, or 
+negative categories, providing actionable insights to improve services.
+Ray Tracer Optimization using Bounding Volume Hierarchy
+Optimized the Time Complexity of Ray Tracer making it more efficient for real-time image generation using Bounding Volume 
+Hierarchy (BVH)
+KPSIAJ Business Connect
+Built an AI-driven digital ecosystem that brings together community-wide business networking portals and insurance 
+platforms, using intelligent agents to improve accessibility and ensure scalable resource allocation.
+Professional Experience
+Nawadiraat
+Artificial Intelligence Intern
+May 2025 – September 2025
+Focused on enhancing open-source, low-resource LLMs for 
+Urdu by conducting applied research and developing 
+product-driven prototypes.
+Technezo
+STEM Course designer and Instructor
+September 2022 – July 2024
+Gen. Sec CSEC Club
+OSL, Habib University
+January 2023 – January 2024
+Computer Science, Community Mentor
+OAP, Habib University
+August 2023 – December 2023
+Programming Languages and Courses
+Machine Learning, Kaggle
+Web and Mobile 
+Development, Habib 
+University
+
+Ali Ahsan Rajani
+ahr.rajani@gmail.com
++923037328702
+Karachi, Pakistan
+Education
+Habib University
+Bachelor in Computer Science
+2022 – 2026 | Karachi, Pakistan
+Current CGPA: 3.71/4.00
+Awards
+Global Innovate Hackathon Winner
+The World Federation Of KSIAJ, 2025
+University Honors Dean's List
+Habib University, 2023
+International Collegiate Programming 
+Competition(Regionals) Gold and Silver medalist
+ICPC Foundation, 2022
+DLD Project Exhibition and Competition (DPEC) 1st 
+Position
+Habib University, 2024
+Code Bash Regional Winner
+KPSIAJ, 2023
+Data Science, Habib 
+University
+Deep Learning, Habib 
+University
+Design Thinking, Habib 
+University
+Advance Machine 
+Learning, Kaggle
+Programming Languages:
+Python, C++, C, MERN, 
+HTML, CSS, Java Script

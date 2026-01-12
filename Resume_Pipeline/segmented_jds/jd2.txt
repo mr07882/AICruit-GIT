@@ -1,0 +1,16 @@
+Non-Negotiable Requirements:
+1. 3–6 years of hands-on experience in Java development
+2. Strong understanding of Java fundamentals (OOP, collections, exceptions, multithreading)
+3. Experience with Spring Boot or similar Java frameworks
+4. Familiarity with REST API design and development
+5. Proficiency in relational databases (e.g., MySQL, PostgreSQL)
+6. Experience with Git and build tools like Maven or Gradle
+7. Understanding of software development lifecycle and agile practices
+8. Strong problem-solving and debugging skills
+
+Negotiable Requirements:
+1. Experience with microservices and distributed systems
+2. Exposure to cloud services (AWS, Azure, or GCP)
+3. Familiarity with Kafka, RabbitMQ, or other messaging queues
+4. Containerization knowledge (Docker)
+5. Interest or exposure to AI/ML integrations via API

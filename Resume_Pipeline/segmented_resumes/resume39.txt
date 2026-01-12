@@ -1,0 +1,75 @@
+Personal Information
+Name: Muhammad Umar
+Address: Street 57, Sector G-6/1-4, Islamabad, Pakistan
+Phone: +92 323-7293859 | +92 316-6898080
+Email: umerkhan1280@gmail.com
+
+Education
+2014 – 2018
+BS (Hons) in Information Technology
+University of Education, Lahore
+
+Experience
+Senior DevOps Engineer, Avanza Solutions (Dec 2021 – Present)
+- Lead a DevOps team in designing, implementing, and managing Kubernetes clusters for blockchain applications, ensuring optimal performance, scalability, and security
+- Orchestrated infrastructure using Terraform to streamline deployments and reinforce infrastructure-as-code practices
+- Implemented Docker Compose for local development environments, improving consistency across development, testing, and production
+- Established and maintained an on-premise Kubernetes cluster, optimizing resource utilization and minimizing downtime
+- Built and maintained CI/CD pipelines, automating build, test, and deployment processes for faster time-to-market
+- Automated Azure infrastructure setup via Terraform scripts for Kubernetes clusters, resource groups, VNets, subnets, Docker registry, and databases
+- Developed automated CI/CD pipelines with AWS CodePipeline, Jenkins, and AWS CodeDeploy
+- Configured and managed MySQL, PostgreSQL, and MongoDB databases
+- Developed and maintained Hyperledger and Cipher blockchain applications
+
+DevOps Engineer (Team Lead), Code Informatics (Oct 2020 – Dec 2021)
+- Led development and operations processes within the team
+- Defined and implemented CI/CD roadmap per project requirements
+- Deployed applications on Azure Cloud and applied CI/CD practices using Jenkins pipelines
+- Containerized applications with Docker for consistent and isolated environments
+- Monitored cloud host performance and generated analytical reports
+- Compiled code and created ZIP/WAR packages using Gradle and Grunt
+- Implemented Elasticsearch, Logstash, and Kibana for real-time data analysis and visualization
+
+DevOps Engineer, Mercurial Minds (Oct 2018 – May 2020)
+- Managed and monitored over 40 Linux servers to support live commentary services
+- Automated routine tasks to ensure service reliability and self-healing capabilities
+- Tested and validated backup and recovery procedures to enhance infrastructure resilience
+- Set up and configured databases, applying best practices for data integrity and performance
+- Automated testing processes with Bash scripts, reducing manual effort and improving efficiency
+- Performed system administration tasks to maintain optimal server performance and security
+
+Skills/programming Languages
+Programming Languages:
+- Python (Basic), Bash, Groovy, YAML, Terraform
+
+DevOps & Tools:
+- Kubernetes, Docker, Jenkins, Ansible (Basic), Terraform
+
+Operating Systems & Virtualization:
+- Linux, Windows, VMware
+
+Databases:
+- MySQL, MariaDB, PostgreSQL (Basic), MongoDB (Basic)
+
+Version Control:
+- GitHub, GitLab, Bitbucket
+
+Monitoring & Logging:
+- Nagios, ELK, Application Manager
+
+Projects
+Twitter Sentiment Analysis Using Python (Final Year Project)
+- Extracted data from Twitter API and retrieved trending tweets
+- Normalized JSON tweets into a data frame for analysis
+- Performed sentiment analysis on tweets based on polarity
+- Visualized sentiment distribution through plotted charts
+
+Certifications/Courses
+(Section currently empty)
+
+Other Information
+Professional Summary
+DevOps Engineer with proven expertise in Bash, Kubernetes, Jenkins, Docker, ELK, and GitHub. Skilled in designing and optimizing infrastructure solutions. Committed to driving operational excellence through innovation.
+
+References
+Available upon request.

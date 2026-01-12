@@ -1,0 +1,170 @@
+Muhammad Umar          
+Address:      Street 57, Sector G-6/1-4, Islamabad            
+Phone:         +92 323-7293859 | 03166898080  
+ E-mail:         umerkhan1280@gmail.com 
+ 
+Professional Summary
+DevOps Engineer with a strong background in DevOps and proven expertise in Bash, k8s, Jenkins, Docker, 
+ELK, and GitHub. Known for designing and optimizing robust infrastructure solutions. Holds a BS in IT from 
+the University of Education (PK). Committed to driving operational excellence through innovation. 
+ 
+1. Senior DevOps Engineer at Avanza Solutions     
+    
+    
+              [Dec 2021 – Present]
+Responsibilities
+-  
+Lead a DevOps team in designing, implementing, and managing Kubernetes clusters 
+tailored for blockchain applications, ensuring optimal performance, scalability, and 
+security.
+-  
+Spearheaded the orchestration of infrastructure using Terraform, streamlining deployment 
+processes and enhancing infrastructure as code practices.
+-  
+Successfully implemented Docker Compose for local development environments, 
+improving consistency across development, testing, and production environments.
+-  
+Established and maintained an on-premise Kubernetes cluster, optimizing resource 
+utilization and minimizing downtime for critical applications.
+-  
+Implemented and maintained robust CI/CD pipelines, automating build, test, and 
+deployment processes, resulting in increased efficiency and faster time-to-market for 
+software releases.
+-  
+Orchestrated the end-to-end infrastructure setup on azure by crafting comprehensive 
+Terraform scripts, automating the creation of Kubernetes clusters, Azure Resource Group, 
+Virtual Network (VNet), and Subnet, Docker Registry, and databases, fostering a 
+streamlined and reproducible environment.
+
+-  
+Experience in building automated CI and CD pipeline with AWS Code Pipeline, Jenkins and 
+AWS Code Deploy
+-  
+Configured and managed databases such as MySQL, PostgreSQL, and MongoDB
+-  
+Developed and maintained blockchain applications using Hyperledger and Cipher
+2. DevOps Engineer (Team Lead) at Code Informatics           
+    
+    
+[Oct 2020 –Dec 2021]
+Responsibilities
+Leading development and operations processes inside team
+-  
+Development CI/CD roadmap and implementation as per the project
+-  
+Set up a complete application on azure cloud
+-  
+Implication of CI/CD on azure cloud application
+-  
+Write clean and well documentation of new deployment
+-  
+Using Jenkins CI/CD pipelines for automation
+-  
+Docker Container for Consistent and Isolated Environment for each application
+-  
+Monitor analyses and report performance statistics for cloud host environment
+-  
+Using gradlew and grunt to compile the code and make zip and war file
+-  
+Elasticsearch, Logstash, and Kibana for Real-Time Data Analysis & Visualization     
+       
+Experience           
+ 3. DevOps Engineer at Mercurial Minds           
+                           [Oct 2018 – May 2020]
+Responsibilities
+-  
+Established and running service including live commentary by managing and monitoring more 
+than 40 Linux Servers 
+-  
+Rresponsible for automation to make services running smoothly and self-healing.
+
+-  
+Conducted regular testing of backup and recovery procedures to guarantee their effectiveness in 
+various scenarios, contributing to a resilient and disaster-ready infrastructure. 
+-  
+Led the setup and configuration of databases, implementing best practices to enhance data 
+integrity, availability, and performance. 
+-  
+Spearheaded automation initiatives by creating and deploying Bash scripts to streamline testing 
+processes, significantly reducing manual effort and improving overall system efficiency. 
+-  
+Demonstrated proficiency in system administration by effectively managing and monitoring Linux 
+servers, ensuring optimal performance, security, and reliability.
+Skills and Tools
+Scripting Languages
+-  
+Python(Basic)
+-  
+Bash
+-  
+Groovy
+-  
+YMAL
+-  
+Terraform    
+Operating System
+-  
+Linux
+-  
+Windows
+-  
+VMware
+
+DevOps
+-  
+Jenkins
+-  
+Docker
+-  
+Ansible(Basic)
+-  
+Kubernetes
+Databases
+-  
+MySQL
+-  
+Maria DB
+-  
+PostgreSQL(Basic)
+-  
+Mongo(Basic)
+
+Software Version Control
+-  
+GitHub
+-  
+Git-Lab
+-  
+Bit Bucket
+
+Monitoring Tool
+-  
+Nagios
+-  
+Application Manager
+-  
+ELK
+
+Qualification          
+        
+        
+           
+[2014 - 2018]           
+BS (Hons) in Information Technology
+University of Education Lahore
+Final Year Project           
+Twitter-Sentiment-Analysis-Using-Python
+-  
+Extracted data from Twitter API
+-  
+Read the trending tweets
+-  
+Downloaded tweets for analysis
+-  
+Normalized the tweets from JSON to data frame
+-  
+Performed a sentiment analysis on the tweets
+-  
+Plotted the sentiment based on polarity
+Reference:
+Reference will be provided when needed.

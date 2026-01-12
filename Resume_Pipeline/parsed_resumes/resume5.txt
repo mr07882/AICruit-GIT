@@ -1,0 +1,20 @@
+Dr. Faisal Ahmed
+faisal.ahmed@gmail.com | +92 333 1112233 | Karachi, Pakistan
+Profile
+Machine Learning specialist who began working on AI systems as early as 2004, contributing to early-stage research in pattern
+recognition, speech processing, and document clustering. Experienced in both theoretical ML and large-scale enterprise
+systems, now exploring modern ML frameworks to integrate legacy expertise with current technology trends.
+Education
+PhD in Computer Science (2004) — NUST, Pakistan
+Skills
+Expertise: Support Vector Machines, HMMs, Decision Trees, Data Mining Programming: Python, MATLAB, Java, SQL Modern
+Tools: Scikit-Learn, TensorFlow (Learner) Soft Skills: Research, Technical Leadership, Mentorship
+Professional Experience
+Research Scientist — COMSATS (2005–2010) Led national-level research projects on natural language and text analytics.
+Software Architect — TechEdge (2011–2020) Directed architecture for data systems and analytics pipelines. Independent
+Consultant — 2021–Present Provides consulting for ML modernization and academic guidance.
+Projects
+-  Speech Recognition via Hidden Markov Models (2004) -  Document Clustering using TF-IDF and k-Means (2005) -  Bayesian
+Spam Filtering for Email Security (2006) -  Currently revisiting ML frameworks and cloud AI integration (2024–Present)
+Awards
+Best Research Paper Award — IEEE PAKAI 2005 Innovation Award — COMSATS Research 2008

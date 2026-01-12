@@ -1,0 +1,62 @@
+Personal Information
+Name: Zain Mansoor
+Title: Backend Java Developer and Computer Scientist
+Phone: +92 331 8436007
+Address: 105 Ali Block, Awan Town, Lahore, Pakistan
+Email: znmansoor@gmail.com
+
+Education
+COMSATS Institute of Information Technology, Lahore  
+• Bachelors of Computer Science, 2010–2014
+
+Mansoora Model Degree College, Lahore  
+• Intermediate Pre-Engineering, 2007–2009
+
+Government High School, Lahore  
+• Matriculation, 2005–2007
+
+Experience
+Ascertia PVT Limited – Senior Software Engineer (November 2017–Present)  
+• Lead developer teams on a microservices-based PKI solution (ADSS)  
+• Managed requirement analysis, resource planning, development, documentation, and timely delivery  
+• Authored technical documents, SDK developer guides, and release notes  
+• Designed and implemented remote authorized digital signature service and signature activation module  
+• Integrated IDP/IAM for authentication/authorization using SAML and OpenID Connect  
+• Developed ADSS service for HMAC computations (software and HSM keys) and NPKD service for e-passport solutions with LDAP  
+• Integrated Utimaco CP5 HSM via JNI for native signing support  
+• Upgraded Tomcat, Hibernate, and DBCP connection pool to latest versions
+
+IQVIS – Software Engineer (May 2016–August 2017)  
+• Developed IMARS application using Java, Spring, and Hibernate  
+• Ensured application robustness, optimized code quality, adhered to SQL best practices, and improved performance
+
+Arcana Info – Oracle Support Engineer (September 2015–February 2016)  
+• Provided 24×7 Oracle database support and POCs for Advanced Compression  
+• Converted Oracle Restart to RAC and deployed Oracle RAC on SPARC T5-2 servers  
+• Upgraded Grid Infrastructure/ASM from 11.2.0.3 to 11.2.0.4 and migrated databases to RAC
+
+Diamond Group of Industries – Oracle DBA (March 2015–August 2015)  
+• Supported Oracle EBS R12 and in-house legacy applications  
+• Cloned and patched Oracle Applications R12.1.3 and Oracle Database 11gR1  
+• Tuned Oracle instance and Linux kernel parameters, monitored backups, and refreshed test/UAT environments
+
+Skills/programming Languages
+• Programming Languages: Java, C, C++, Assembly  
+• Databases: MySQL, Oracle, PostgreSQL, MSSQL  
+• Frameworks: Spring Core, Spring Boot, Spring Security, Spring MVC, Struts, Hibernate, HikariCP  
+• Java EE: JPA, JTA, CDI, Servlet, JSP  
+• Technologies: Microservices, Multi-tenancy, SAML, OpenID Connect, SSO  
+• PKI: Digital Signatures, CMS, XML Digsig, PKCS#1, PKCS#7, PKCS#11  
+• Servlet Containers: Tomcat, Undertow  
+• Operating Systems: Windows, Linux, Unix, Solaris
+
+Projects
+• ADSS (Advanced Digital Signature Services): End-to-end microservices PKI solution with remote signature service, HMAC and NPKD modules, HSM integration  
+• IMARS: Java/Spring/Hibernate application focusing on robustness, optimized code, SQL best practices, and performance  
+• Oracle Database POCs: Implemented Advanced Compression and RAC deployments/migrations
+
+Certifications/Courses
+
+Other Information
+Objective: Aspiring for career-enriching assignments as a Software Engineer in a multinational software development environment  
+References available upon request

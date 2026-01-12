@@ -1,0 +1,197 @@
+Zubair Munir
+JOHAR TOWN,LAHORE PAKISTAN
++92 (306) 617-2561 ZUBIARMUNIR263@GMAIL.COM WWW.LINKEDIN.COM/IN/ZUBAIR-MUNIR
+
+Professional Summary
+●
+Microsoft Certified Professional 5+ years of solid experience with mobile app
+development in .NET MAUI, Xamarin Forms,Xamarin.Android, Azure B2C
+Authentication, Flutter,Provider ,GetXMicrosoft Graph Api’s , including technical
+design, mobile and, design patterns, UI/UX, unit testing, automation testing,
+Visual Studio App Center, App Store, TestFlight and Play Store app deployment /
+submission.
+●
+Solid understanding of the core mobile framework (MVC, MVVM), application
+life-cycle, Data-binding, Dependency injection, design principles, best practices,
+and user experience.
+●
+Having expertise in UX design and development of the mobile application architecture
+from start to end. Writing robust, scalable, and reusable code.
+Technical Skills
+Technologies: .NET MAUI, Xamarin-Forms,Xamarin.Android Xamarin.iOS Flutter, C#, Dart,
+Java-Script, Azure AD, Azure AD B2C,
+Microsoft Graph Api, XML, Firebase. App-Center,
+Design Patterns, Clean Architecture, Unit Testing, Data-Binding, Dependency Injection, Rest
+API, Retrofit2, Twilio, Postman, Google Maps, SQLite Offline support.
+Databases: SQLite.
+Development Tools: Visual Studio, XCode,Visual studio Code, Azure, Git, TFS, Teams.
+Roles & Responsibilities:
+●
+Developed UI/UX for SGDD Portalen for both Android and iOS using .NET MAUI
+Xamarin. Forms (Cross Platform), Xamarin.Android, Xamarin. IOS and Native
+Android and Native iOS Custom Renderers.
+●
+Architecture Xamarin application using SOLID principles, Dependency Injection,
+Abstractions and MVVM.
+●
+Integrated ASP.NET Web Api Identity OAuth Login and Registration support into
+application.
+●
+Consumed and Develop RESTful web services developed in ASP.NET Web API.
+●
+Used AppCenter for beta testing and integrated Xamarin Insights and Crash
+analytics to keep track of mobile application usage, statistics and reports.
+●
+Integrated offline data storage support with SQLite via ORM with Online and offline
+data synchronization support.
+●
+Using sync service, manage data offline and online.
+●
+Using Android and iOS Services and third-party tools in Xamarin.
+●
+Use Custom Renderers on Native Platform.
+●
+Use Third Party Tools (NuGet Packages).
+●
+Integration of Facebook login and google login.
+●
+Bug Fixing and Support.
+
+●
+Integration firebase Notification.
+●
+Integration SginalR.
+●
+Excellent organizational, communication, presentation, and interpersonal skills.
+●
+Having good verbal and written communication skills. Excellent team collaboration
+and coordination.
+
+Professional Experience:
+Systems Limited
+Consultant Mobile Development
+NOV 2021 – Present
+1. ANGLR-Mobile Application (Xamarin.Forms)
+It is an ERP Based mobile App used by Visionet .The fishing app that helps new and
+experienced anglers alike plan, record, and improve their fishing trips. ANGLR transforms
+your device into a fishing intelligence tool.
+Review fishing reports & catch fish based on historical data to constantly improve.
+Drop over 15 different waypoints. Map GPS routes, mark catches in a fishing logbook,
+and automatically capture fishing conditions. Analyze from your fishing analytics
+dashboard. Share fishing points with friends.
+1.
+Implement the new functionalities and modules.
+2.
+Troubleshoot, debug and upgrade existing applications.
+3.
+Produce clean, efficient code based on specifications.
+Technologies:C#, Xamarin. Forms, MVVM Light, Prism, Dependency Injection using
+Unity, Xamarin. Android, Xamarin. iOS, Interface implementation, Auto mapper,
+SharePoint web api caller, Custom Renderers, SQLite, Logger, Unit testing.
+2. Girdawari - Mobile Application (PLRA Digital Gardawari )
+The Gardawari Mobile App to be developed for the Punjab Land Record Authority. DMM User
+will add gardawari Crop inspection and Taghayyurat information through Gardawari mobile
+app, while Gardawar will endorse and make corrections if needed. Once Gardawari will be
+endorsed by the Gardawar, Taghayyurat will be created in the result and will be sent to ADLR
+for decision.
+●
+Create the UI of the App.
+●
+SQLite for locally store data.
+●
+Offline functionality.
+●
+Integration of API's.
+●
+Manage users based on their role.
+Technologies:C#, Xamarin. Forms, MVVM Light, Prism, Dependency Injection using
+Unity, Xamarin. Android, Xamarin. iOS, Interface implementation, Auto mapper,
+SharePoint web api caller, Custom Renderers, SQLite, Logger, Unit testing.
+3. Power International Holding - Mobile Application (Flutter)
+●
+The purpose of app to facilitate the user that can send the document for approvals
+according to their requirement. The user can select the multiple approvers and also add
+the comments to describe the purpose of document and then can send it for approval.
+Once the document is approved by their respective approver the document is updated
+with the status.
+●
+Create the Clone of the app created in Powers App.
+●
+Integrate Microsoft login.
+
+●
+Create the UI of the App.
+●
+Integration of API's.
+4. Sports Corner Mobile Application - Mobile Application (Flutter)
+Ecommerce Application for one of our
+Qatar based client, this application is made on
+Flutter
+primarily provides e-commerce
+solution where user can see all products
+available on product catalog, check nearest store
+on google maps, track his/her order,
+and lodge complaint along with payment gateway services through the application.
+Push Notification, Google maps, Firebase, State Management with Provider, Crash
+Analytics,
+Mixins, OOP, Responsive Layout with Layout Builder, Sizer and MediaQuery,
+REST APIs, JSON
+Serialization, Guest Checkout, MVVM, Light and Dark Mode,
+Internationalization, E-commerce.
+5. Dominos - Mobile Application ( .NET MAUI )
+The mobile application is built on .NET MAUI The core idea of this product is to online pizza
+order and deliver to the customer location within the given time.
+Technologies:.Net MAUI, C# ,XAML, SQLite, Unit testing.
+True Tech Pvt Ltd.
+Software Engineer
+FEB 2019 – NOV
+2021
+6. Employee Search-Mobile Application(Xamarin.Forms)
+We have shown users brands pages like BD, Optimera etc. Users select brand and
+employees are fetching again that brand and populate list and User can search
+employees and we use long running tasks for fetching the images of employees in
+background without blocking UI. Use directly adding contact in phone from the
+mobile app, send message to that user from mobile and with email as well from
+the mobile app.
+7. Mileages (Xamarin.Forms)
+When users go to the mileage module, we have made 3 Tabs. Draft, Treated and
+Approved. User Shows data by status wise in all 3 tabs. Users create mileage with
+new form, and we have use Google Api to calculate distance and search the
+addresses. Use can enter kilometers as well and we have created custom keyboard
+for using commas with numerics for Danish customers. User can save mileage in
+draft as well and save directly in approval as well.
+8. Expenses (Xamarin.Forms)
+In Expense we give two tabs Treated and Not Treated. In Expense we have given
+Camera, Gallery, Attach Documents Functionality. User can select them
+categories, type1 and type 2 using filter id from the dropdowns. User Can add
+their currency and add the amount according to the currency. We have sent directly
+expense is approved and in draft as well.
+9 .Inventory Modules (Xamarin.Forms)
+We have given the Barcode Reader functionality using ZXing.net and auto open
+and hide the soft keyboard in the app for scanning, adding in cart, deleting, updating the
+products and booking the orders. This functionality works offline and online as well.
+We have use Visual Studio App Center for publishing the app and we have made over
+
+500 versions in four years in production and the app is currently in development phase
+too. We have used Visual Studio App Center Logging all over the app.
+Important Note: we are not blocking the user in any case in app, and we are using
+Pending Changes Service. User will make transactions in whole app with blocking and
+The service will run in the background and sync data in the Server using a local database.
+This whole app is in offline mode. We use SQLite and task table that is associated to
+every module. So, every entry contacts the task model and we save data in task tables.
+So, when there is internet coming, we sync all data one by one on the server.
+Technologies: C#, Xamarin. Forms, MVVM Light, Prism, Dependency Injection using
+Unity, Xamarin. Android, Xamarin. iOS, Interface implementation, Auto mapper,
+SharePoint web api caller, Custom Renderers, SQLite, Logger, Unit testing.
+10. Freedom (Xamarin.Android)
+Designing Product Security Mechanisms using B2C Authentication with Graph Api.
+Using Twilio and SendGrid for OTP verification. Developing Android Native Application
+in Xamarin.Android using MVVM Architecture.
+Technologies: C#, Microsoft Azure AD, Azure B2C, User Flows, Policies, Twilio,
+SendGrid, Native iOS, Native Android, Entity Framework Code First, Xamarin.Android.
+
+Microsoft Certifications
+70-480 - Introduction to Programming in HTML, CSS, JavaScript
+Education
+Bachelor of Science: Software Engineering – 2014-2018
+University of Gujrat, Gujrat Pakistan

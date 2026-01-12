@@ -1,0 +1,54 @@
+Personal Information  
+- Name: Syed Muhammad Talha Shan  
+- Location: Karachi, Pakistan  
+- Phone: +92 331 2715963  
+- Home Phone: 34610511  
+- Email: talha.shan007@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/talha-shan7515aa192/  
+- Skype: Talha Shan  
+
+Education  
+- BE in Computer and Information System Engineering, NED University of Engineering and Technology (2015–2019), CGPA: 3.00  
+- Higher Secondary Certificate (HSC), Adamjee Government Science College (2013–2014)  
+- Secondary School Certificate (SSC), Muhammadi Public School  
+
+Experience  
+- Software Engineer, Ositech Communication Inc (March 2021 – Present)  
+  • Backend Engineer on Routica (in-vehicle router) for tracking, sharing, and security  
+  • Developed RESTful services with Java Spring Boot  
+  • Integrated AWS IoT for message brokering and used AWS cloud services for deployment  
+
+- Software Engineer, HBZ Services Pakistan (Feb 2020 – Feb 2021)  
+  • Java Developer on HPlus banking application (accounting, reporting, management)  
+  • Resolved bugs, implemented new features, created SQL triggers/procedures and performed data analysis  
+  • Worked primarily with Core Java and relational databases  
+
+- Junior Software Engineer, Binary Vibes Pvt Ltd (Oct 2019 – Jan 2020)  
+  • Developed ESOURCE modules (temporary value enhancements, sales/settlement calendar, MIS reporting)  
+  • Built web services with Java Spring Boot and AngularJS  
+  • Conducted unit testing, bug fixing, and code reviews  
+
+Skills/programming Languages  
+- Programming Languages: Java, Python, C++, JavaScript, C#  
+- Frameworks & Libraries: Spring MVC, Spring Boot, AngularJS  
+- Databases & ORM: SQL, MySQL, SQLite, Google Firebase (Realtime Database), MongoDB, Hibernate  
+- Cloud & DevOps: AWS (S3, IoT, EC2, RDS, SES), Docker  
+- Architecture & Practices: Microservice Architecture, Web Sockets, REST APIs, Spring Boot Actuators  
+- Testing & Quality: Unit Testing, Test-Driven Development (TDD), SonarQube Code Analysis, SonarCloud  
+- Tools & Collaboration: GitLab, JIRA Agile (Scrum), New Relic, Sentry  
+
+Projects  
+- Football Club Management System (Java, SQL)  
+- AI-Based Pacman Game  
+- Travel Agency Booking System (C#, SQL)  
+- Smart Donation Box (NodeMCU, Firebase Realtime Database, Arduino)  
+- Microservice High-Level Design between Two Services using Eureka Discovery Server  
+
+Certifications/Courses  
+- Udacity Nanodegree in Data Structures and Algorithms (DSA) – https://graduation.udacity.com/confirm/DFDKL7W4  
+- AWS Certified Solutions Architect – Associate – https://www.credly.com/badges/aae5bc75-d172-40ab-aa4b-eadd80ab0bf7/public_url  
+
+Other Information  
+- Skype: Talha Shan  
+- Home Phone: 34610511  
+- Languages: English, Urdu (native)

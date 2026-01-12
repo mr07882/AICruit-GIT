@@ -1,0 +1,19 @@
+{
+    "Non-Negotiable Requirements": [
+        "3–6 years of hands-on experience in Java development",
+        "Strong understanding of Java fundamentals (OOP, collections, exceptions, multithreading)",
+        "Experience with Spring Boot or similar Java frameworks",
+        "Familiarity with REST API design and development",
+        "Proficiency in relational databases (e.g., MySQL, PostgreSQL)",
+        "Experience with Git and build tools like Maven or Gradle",
+        "Understanding of software development lifecycle and agile practices",
+        "Strong problem-solving and debugging skills"
+    ],
+    "Negotiable Requirements": [
+        "Experience with microservices and distributed systems",
+        "Exposure to cloud services (AWS, Azure, or GCP)",
+        "Familiarity with Kafka, RabbitMQ, or other messaging queues",
+        "Containerization knowledge (Docker)",
+        "Interest or exposure to AI/ML integrations via API"
+    ]
+}

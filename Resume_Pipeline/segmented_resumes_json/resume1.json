@@ -1,0 +1,72 @@
+{
+    "Personal Information": {
+        "Name": "Ali Ahsan Rajani",
+        "Email": "ahr.rajani@gmail.com",
+        "Phone": "+92 303 7328702",
+        "Location": "Karachi, Pakistan"
+    },
+    "Education": [
+        "Habib University",
+        "Karachi",
+        "Pakistan",
+        "Bachelor of Science in Computer Science",
+        "2022–2026",
+        "Current CGPA: 3.71/4.00"
+    ],
+    "Experience": [
+        "Nawadiraat",
+        "Artificial Intelligence Intern",
+        "May 2025–September 2025",
+        "Conducted applied research and developed product-driven prototypes to enhance open-source, low-resource LLMs for Urdu.",
+        "Technezo",
+        "STEM Course Designer and Instructor",
+        "September 2022–July 2024",
+        "Designed and delivered STEM curricula; facilitated workshops to improve student outcomes in science, technology, engineering, and mathematics.",
+        "CSEC Club",
+        "Office of Student Life (OSL)",
+        "Habib University",
+        "General Secretary",
+        "January 2023–January 2024",
+        "Led club activities, coordinated events, and managed communications for the Computer Science and Engineering Club.",
+        "OAP",
+        "Community Mentor (Computer Science)",
+        "August 2023–December 2023",
+        "Supported peer learning initiatives, guided project work, and facilitated study groups in computer science courses."
+    ],
+    "Skills": [
+        "Data Analytics & Machine Learning",
+        "Web Development & UI/UX Design",
+        "Design Thinking & Problem Solving",
+        "Programming Languages/Frameworks: Python, C++, C, JavaScript, HTML, CSS, MERN"
+    ],
+    "Projects": [
+        "Forecasting Curtailed Wind Power Using TFT and LSTM",
+        "Developed a predictive model using Temporal Fusion Transformer (TFT) and Long Short-Term Memory (LSTM) networks to forecast curtailed wind power production based on historical weather and energy data.",
+        "Machine Learning-Based Scam Call Detection",
+        "Built a machine learning model to analyze call behavior patterns—frequency, time of day, historical records—to classify and flag suspicious numbers.",
+        "Customer Feedback Sentiment Analysis",
+        "Applied sentiment analysis on Roman Urdu customer feedback to classify reviews into positive, neutral, or negative categories, delivering actionable insights for service improvement.",
+        "Ray Tracer Optimization Using Bounding Volume Hierarchy (BVH)",
+        "Optimized ray tracer time complexity for real-time image generation by implementing a Bounding Volume Hierarchy acceleration structure.",
+        "KPSIAJ Business Connect",
+        "Created an AI-driven digital ecosystem integrating business networking portals and insurance platforms, employing intelligent agents for scalable resource allocation and improved accessibility."
+    ],
+    "Certifications": [
+        "Machine Learning – Kaggle",
+        "Advanced Machine Learning – Kaggle",
+        "Data Science – Habib University",
+        "Deep Learning – Habib University",
+        "Design Thinking – Habib University",
+        "Web and Mobile Development – Habib University"
+    ],
+    "Other Information": [
+        "Profile Summary",
+        "Data enthusiast with a passion for leveraging data-driven insights to optimize business processes and enhance decision-making.",
+        "Awards",
+        "Global Innovate Hackathon Winner, The World Federation of KSIAJ, 2025",
+        "Dean’s List (University Honors), Habib University, 2023",
+        "ICPC Regionals Gold & Silver Medalist, ICPC Foundation, 2022",
+        "1st Place, DLD Project Exhibition and Competition (DPEC), Habib University, 2024",
+        "Code Bash Regional Winner, KPSIAJ, 2023"
+    ]
+}

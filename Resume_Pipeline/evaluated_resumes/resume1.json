@@ -1,0 +1,17 @@
+{
+    "resume_filename": "resume1.json",
+    "evaluation": {
+        "Fulfillment with Non-Negotiable Criteria": {
+            "score": "1/10",
+            "description": "Justification: The candidate has zero professional Java development experience and no demonstrable work with core Java fundamentals or Spring Boot. Key requirements such as relational database proficiency with Java, REST API design in Java, and Maven/Gradle usage are entirely missing."
+        },
+        "Fulfillment with Negotiable Criteria": {
+            "score": "2/10",
+            "description": "Justification: While the candidate shows strong AI/ML exposure and general programming skills, there is no evidence of microservices, cloud services, messaging queues, or containerization knowledge. Their AI/ML background marginally aligns with interest in integrations."
+        },
+        "Continuity and Recency of Experience": {
+            "score": "1/10",
+            "description": "Justification: All relevant experience is academic or internship-focused on AI and STEM education, with no sustained Java-based development roles over the past years. There is no recent continuity in the core tech stack required by the role."
+        }
+    }
+}

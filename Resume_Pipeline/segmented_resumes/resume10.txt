@@ -1,0 +1,63 @@
+1. Personal Information  
+Name: Luu Van Hai  
+Date of Birth: 13/02/2002  
+Hometown: Phu Yen, Vietnam  
+Address: 91/1 Street 8, Linh Trung, Thu Duc City, Ho Chi Minh City, Vietnam  
+Phone: 093 476 5372  
+Current Title: Automation Engineer  
+
+2. Education  
+Ho Chi Minh City University of Technology and Education (2020 – 2024)  
+– Bachelor of Engineering in Control and Automation Engineering Technology  
+– GPA: 7.45/10  
+– Final Project: “Controlling Nachi MZO7 Robot Arm Integrated with Image Processing for Product Classification”  
+
+3. Experience  
+B&l Electric – Automation Co., Ltd. (Intern)  
+Sep 2023 – Feb 2024  
+– Read electrical drawings and assembled control cabinets  
+– Used EPLAN software to draw electrical circuit diagrams  
+– Trained on TIA Portal for SCADA system programming  
+– Contributed to ATS cabinet project for Thien Ho Petrol Company (Tien Giang)  
+– Contributed to MSB main distribution cabinet project for Binh Minh Packaging Paper Factory (Binh Duong)  
+
+Saigon Hi-Tech Park Training Center (Intern & Final Project)  
+Feb 2024 – Jul 2024  
+– Trained in controlling and programming Nachi MZ-007 robot  
+– Programmed integrated automation systems with Mitsubishi PLC, HMI, and conveyor systems  
+– Gained hands-on experience with sensors, solenoid valves, servo motors, step motors, inverters  
+– Studied basic industrial communication protocols (IP, TCP/IP, RS232, RS485)  
+
+4. Skills/programming Languages  
+Soft Skills:  
+- Communication and teamwork  
+- Document comprehension and presentation  
+- Logical thinking and problem solving  
+- Understanding equipment manuals (datasheets, manuals, etc.)  
+- Proficiency with MS Office, VS Code, Visual Studio  
+
+Technical Skills:  
+- PLC & HMI programming (Siemens, Mitsubishi, Allen-Bradley)  
+- Robot control programming integrated with automation solutions  
+- Image processing programming (C#, Python)  
+- Microcontroller programming  
+
+Programming Languages:  
+- Python, C#  
+
+Languages:  
+- English (fluent)  
+
+5. Projects  
+Final Project – Controlling Nachi MZO7 Robot Arm Integrated with Image Processing for Product Classification  
+– Programmed Nachi MZO7 robot control using Robot language and User Task programming  
+– Developed image processing algorithms in Python for product classification  
+– Implemented sequential control programming using Mitsubishi PLC and GOT1000 HMI  
+– (Video and GitHub links available upon request)  
+
+6. Certifications/Courses  
+TOEIC Certificate (Valid 19/05/2023 – 19/05/2025)  
+– Listening: 295 / Reading: 285 / Total Score: 580  
+
+7. Other Information  
+Objective: Seeking a position as an Automation Engineer to apply my automation knowledge and skills in designing, developing, and optimizing automated production systems. Long-term goal is to become a technical expert or project manager, delivering advanced intelligent automation solutions for sustainable business growth.

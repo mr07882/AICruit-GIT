@@ -1,0 +1,97 @@
+Muhammad Zubair Khan
+EDUCATION
+NED UNIVERSITY
+MS Computer Science and
+Information Technology
+Feb 2022 | Karachi, PK
+UNIVERSITY OF SINDH
+BS Computer Science
+Dec 2010 | Jamshoro, PK
+LINKS
+LinkedIn:// zubidev
+Github:// zubidev
+Stackoverflow:// zubidev
+Twitter:// @zubidev
+Facebook:// zubiidev
+COURSEWORK
+GRADUATE
+Advanced Machine Learning
+Data Mining
+Artificial Intelligence
+Advanced Analysis of Algorithms
+Cloud Computing
+Advance Theory of Automata
+Image Processing and Computer vision
+Natural Language Processing
+Software Project Management
+UNDERGRADUATE
+Software Engineering
+Operating Systems
+Digital Logic Design
+Functional Programming
+Database
+SKILLS
+PROGRAMMING
+PHP -  Laravel -  Web API -  Linux
+JavaScript -  Angular -  MySQL
+-  Git -  Algorithms -  AWS - 
+Elasticsearch -  Redis -  REST APIs
+-  OOP -  MVC -  HTML
+-  CSS -  LAMP -  AJAX
+-  cyber security -  JSON -  Drupal
+-  Wordpress -  Sucuri -  MySQL
+-  Domain Mapping -  Cloudfare
+-  RESTful -  agile methodology
+- Database -  Unit testing -  Zendesk
+-  TypeScript -  Analytics -  GTM
+-  Data Mining
+
+zubidev.com| Linkedin/in/zubidev
+zubidev@gmail.com | +92-314-2908448
+EXPERIENCE
+GADITEK Sr Software Engineer
+Dec 2015 - Present | Remote, PK
+-  Developed a Slack bot for the app. It allows creating, updating, deleting, and
+searching for metrics from the main application. It uses almost all available
+Slack features: slash commands, events, scheduled messages, and interactive
+components.
+-  Developed integrations with other third-party services including
+Jira, Salesforce, Asana, Zendesk, Tableau, Baremetrics, Google docs, and Google
+calendar. These integrations mostly consist of CRUD operations
+-  Designed and implemented AWS network architecture supporting
+multiple workloads (web app, analytics pipeline, database) and environments.
+-  Implemented workflows and guidelines for code consistency, readability,
+maintainability, and testability.
+-  Developed the front end with Angular and a back-end API with Laravel.
+-  collaborating and love to participating in code reviews and discussions about
+architecture, and design.
+-  Designed a new REST API that combined a client’s existing MVC components
+and customizations.
+TECTUTIVE Software Engineering
+Sep 2013 – Dec 2015 | Karachi, PK
+-  Redeveloped the company brand website from scratch.
+-  Integrated with third-party bookings system and other APIs.
+-  Built a module-based page builder for added flexibility.
+-  Assisted with integrations with SalesForce and DynamicsCRM, doing the
+required work against third-party APIs on the WordPress side.
+-  Installed Google Analytics and optimized reports for troubleshooting issues.
+-  Developed a tool that allows editors to import Associated Press news and
+images directly into WordPress using the AP News MediaAPI.
+INVORTEX Software Developer
+Apr2012 – Sep 2013 | Karachi, PK
+-  Documenting, building and consuming RESTful APIs
+-  Knowledge of SEO principles.
+-  Implement new features to the existing projects, using PHP, HTML/CSS,
+JavaScript, MySQL
+-  Maintain the web application (refactoring, improving performance, fixing
+issues, migrating code to new solutions)
+-  Work on code optimization.
+-  Work in a cross-functional agile team
+CREATIVE JIN Web Developer
+Dec 2011 – Apr 2012 | Karachi, PK
+-  Work with the Team Lead to complete tasks and objectives on time.
+-  Work with the Project Manager to complete tasks and objectives on time.
+-  Understanding of web concepts such as HTTP request handling
+-  Practical experience with Git code versioning.
+-  Integrating the MySQL database with the PHP applications.
+-  Resolving issues related to PHP development in different applications.

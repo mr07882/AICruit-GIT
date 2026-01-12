@@ -1,0 +1,17 @@
+{
+    "resume_filename": "resume29.json",
+    "evaluation": {
+        "Fulfillment with Non-Negotiable Criteria": {
+            "score": "8/10",
+            "description": "The candidate brings 7+ years of hands-on Java experience with strong OOP, collections, multithreading, Spring Boot, REST API design, and relational databases.  \n   Missing explicit mention of Git, Maven/Gradle, and agile methodologies prevents a perfect score."
+        },
+        "Fulfillment with Negotiable Criteria": {
+            "score": "2/10",
+            "description": "Demonstrates solid microservices and distributed systems background in a PKI context.  \n   No evidence of cloud (AWS/Azure/GCP), messaging queues (Kafka/RabbitMQ), Docker, or AI/ML exposure."
+        },
+        "Continuity and Recency of Experience": {
+            "score": "9/10",
+            "description": "Has been in Java/Spring development roles continuously since May 2016, currently leading microservices projects as a Senior Engineer.  \n   Recent work includes Spring Boot, Hibernate, Tomcat upgrades, HSM integrations, and full-lifecycle delivery."
+        }
+    }
+}
