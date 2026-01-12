@@ -21,3 +21,5 @@ cd..
 python -m Resume_Pipeline.api_server
 
 THANKYOU!
+
+SPOILER: Without our env, you can not do anything. Hehe!
